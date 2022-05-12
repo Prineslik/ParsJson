@@ -1,0 +1,10 @@
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\bin\Debug\TuttorProgressBar.exe.config
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\bin\Debug\TuttorProgressBar.exe
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\bin\Debug\TuttorProgressBar.pdb
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorPars.csproj.AssemblyReference.cache
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorPars.Form1.resources
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorProgressBar.Properties.Resources.resources
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorPars.csproj.GenerateResource.cache
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorPars.csproj.CoreCompileInputs.cache
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorProgressBar.exe
+D:\Ilya\C# Project\ProgressBar\TuttorProgressBar\TuttorProgressBar\obj\Debug\TuttorProgressBar.pdb
